@@ -1,0 +1,87 @@
+E:\resturant\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+E:\resturant\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+E:\resturant\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+E:\resturant\Resturant Management System\Resturant Management System\bin\Debug\Guna.UI2.dll
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.AssemblyReference.cache
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Dashboard.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CopyComplete
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.itemcard.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.itemcardcontainer.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.AdminDashboard.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.ordercard.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Messagebox.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.AdminLogin.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.ItemOrderForm.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.additembtnpnl.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.adminitemcard.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.addfoodform.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.neworders.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.AddingItemForm.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Customer.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.addDrinksForm.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.addDessertsForm.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.dessertsItemsContainer.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.drinkitemsContainer.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.UpdateItemForm.resources
+E:\resturant\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.orderHistory.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant Management System.csproj.AssemblyReference.cache
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.addDessertsForm.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.addDrinksForm.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.addfoodform.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.AddingItemForm.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.additembtnpnl.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.AdminDashboard.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.adminitemcard.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.AdminLogin.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.dessertsItemsContainer.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.drinkitemsContainer.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.Dashboard.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.itemcard.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.itemcardcontainer.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.ItemOrderForm.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.Messagebox.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.orderHistory.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant_Management_System.UpdateItemForm.resources
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant Management System.exe
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant Management System.pdb
+E:\resturant\Galledn-resturant\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+E:\resturant\Galledn-resturant\Resturant Management System\bin\Debug\Resturant Management System.exe
+E:\resturant\Galledn-resturant\Resturant Management System\bin\Debug\Resturant Management System.pdb
+E:\resturant\Galledn-resturant\Resturant Management System\bin\Debug\Guna.UI2.dll
+E:\resturant\Galledn-resturant\Resturant Management System\obj\Debug\Resturant Management System.csproj.CopyComplete
+E:\Galledn-resturant-main\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+E:\Galledn-resturant-main\Resturant Management System\bin\Debug\Resturant Management System.exe
+E:\Galledn-resturant-main\Resturant Management System\bin\Debug\Resturant Management System.pdb
+E:\Galledn-resturant-main\Resturant Management System\bin\Debug\Guna.UI2.dll
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant Management System.csproj.AssemblyReference.cache
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.addDessertsForm.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.addDrinksForm.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.addfoodform.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.AddingItemForm.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.additembtnpnl.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.AdminDashboard.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.adminitemcard.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.AdminLogin.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.dessertsItemsContainer.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.drinkitemsContainer.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.Dashboard.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.itemcard.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.itemcardcontainer.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.ItemOrderForm.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.Messagebox.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.orderHistory.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant_Management_System.UpdateItemForm.resources
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant Management System.csproj.CopyComplete
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant Management System.exe
+E:\Galledn-resturant-main\Resturant Management System\obj\Debug\Resturant Management System.pdb
