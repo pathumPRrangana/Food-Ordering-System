@@ -1,0 +1,83 @@
+string connectionString = @"Data Source=SHEHAN-HP15S\SQLEXPRESS;Initial Catalog=RESTURANT;Integrated Security=True";
+
+Itemcardcontainer
+itemcard
+drinkitemsContainer
+dessertsItemsContainer
+AdminLogins
+ItemOrderForm
+addfoodform
+addDrinksForm
+addDessertsForm
+adminitemcard
+AddingItemForm
+UpdateItemForm
+Messagebox
+orderHistory
+
+SQL Quaries
+--------------
+Create DATABASE RESTURANT
+
+CREATE TABLE Foods (
+    food_id INT PRIMARY KEY IDENTITY(1,1),
+    name NVARCHAR(255) NOT NULL,
+    available_size NVARCHAR(50) NOT NULL,
+    availability BIT NOT NULL,
+    regular_price DECIMAL(10, 2) NOT NULL,
+    large_price DECIMAL(10, 2) NOT NULL
+);
+
+CREATE TABLE Drinks (
+    drink_id INT PRIMARY KEY IDENTITY(1,1),
+    name NVARCHAR(255) NOT NULL,
+    available_size NVARCHAR(50) NOT NULL,
+    availability BIT NOT NULL,
+    regular_price DECIMAL(10, 2) NOT NULL,
+    large_price DECIMAL(10, 2) NOT NULL
+);
+
+CREATE TABLE Desserts (
+    dessert_id INT PRIMARY KEY IDENTITY(1,1),
+    name NVARCHAR(255) NOT NULL,
+    available_size NVARCHAR(50) NOT NULL,
+    availability BIT NOT NULL,
+    regular_price DECIMAL(10, 2) NOT NULL,
+    large_price DECIMAL(10, 2) NOT NULL
+);
+
+CREATE TABLE FOOD_ORDER (
+food_order_id INT PRIMARY KEY IDENTITY(1,1),
+food_id INT,
+quantity INT,
+total_price DECIMAL(10, 2) NOT NULL,
+foodname varchar(250),
+FOREIGN KEY (food_id) REFERENCES Foods(food_id)
+);
+
+CREATE TABLE Drink_ORDER (
+drink_order_id INT PRIMARY KEY IDENTITY(1,1),
+drink_id INT,
+quantity INT,
+total_price DECIMAL(10, 2) NOT NULL,
+drinkname varchar(250),
+FOREIGN KEY (drink_id) REFERENCES Drinks(drink_id)
+);
+
+CREATE TABLE Dessert_ORDER (
+dessert_order_id INT PRIMARY KEY IDENTITY(1,1),
+dessert_id INT,
+quantity INT,
+total_price DECIMAL(10, 2) NOT NULL,
+dessertname varchar(250),
+FOREIGN KEY (dessert_id) REFERENCES Desserts(dessert_id)
+);
+
+CREATE TABLE Admins (
+    admin_id INT PRIMARY KEY IDENTITY(1,1),
+    username NVARCHAR(255) NOT NULL,
+    password NVARCHAR(255) NOT NULL
+);
+
+INSERT INTO Admins (username, password)
+VALUES ('admin', 'admin123');
